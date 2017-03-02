@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Covalent QuickStart
 
 Quickstart App with @covalent packages
@@ -12,3 +13,6 @@ Quickstart App with @covalent packages
 * Install Node packages `npm i`
 * Update Webdriver `webdriver-manager update` and `./node_modules/.bin/webdriver-manager update`
 * Run local build `ng serve`
+=======
+# ang2_covalent
+>>>>>>> d8e5d558bff4b30ba169c00c25d239d03b241746
